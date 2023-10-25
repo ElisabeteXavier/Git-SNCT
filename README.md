@@ -31,11 +31,12 @@ Este guia irá mostrar como criar uma conta no GitHub e fazer seu primeiro commi
 ```bash
 # Configure seu nome de usuário
 git config --global user.name "Seu Nome"
-
+```
+~~~bash
 # Configure seu e-mail
 git config --global user.email "seu-email@example.com"
+~~~ 
 
-```
 ## Passo 5: Clone o Repositório
 
 👉 **5.1** No GitHub, clique no botão "Code" e copie a URL do repositório.
