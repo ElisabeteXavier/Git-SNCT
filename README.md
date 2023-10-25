@@ -68,6 +68,31 @@ git commit -m "Adicionei meu primeiro arquivo"
 ```bash
 git push
 ```
+## 7 - Bônus para Linux
+
+👉 **7.1** Faça login na sua conta do GitHub em [https://github.com](https://github.com).
+
+👉 **7.2**  No canto superior direito, clique na sua foto de perfil e selecione "Settings" (Configurações).
+
+👉 **7.3** Na barra lateral esquerda, role para baixo e clique em "Developer settings" (Configurações de desenvolvedor).
+
+👉 **7.4** Na seção "Personal access tokens" (Tokens pessoais de acesso), clique em "Generate token" (Gerar token).
+
+👉 **7.5** Você será direcionado para uma página onde poderá criar seu token pessoal. Siga os passos a seguir:
+
+   > **Token description** (Descrição do token): Dê um nome descritivo ao seu token para que possa reconhecê-lo mais tarde.
+
+   > **Expiration** (Validade): Escolha por quanto tempo deseja que o token seja válido. Você pode escolher entre algumas opções ou definir uma data de validade personalizada.
+
+   > **Scopes** (Escopos): Selecione os escopos necessários para as operações que deseja realizar com o token. Certifique-se de conceder apenas os privilégios necessários para evitar expor informações sensíveis.
+
+👉 **7.6**  Após preencher os detalhes, clique em "Generate token" (Gerar token).
+
+👉 **7.7** O token será gerado e exibido na tela. **IMPORTANTE:** Copie o token e guarde-o em um local seguro. O token só será exibido uma vez, e você não poderá recuperá-lo novamente.
+
+👉 **7.8** Use o token pessoal de acesso em suas aplicações, scripts ou ferramentas para autenticar-se no GitHub e realizar as ações permitidas pelos escopos concedidos.
+
+
 
 Agora, você criou sua conta no GitHub, configurou o Git e fez seu primeiro commit. Parabéns!
 
