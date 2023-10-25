@@ -58,8 +58,11 @@ git clone URL_DO_REPOSITORIO
 
 ```bash
 git add .
-git commit -m "Adicionei meu primeiro arquivo"
 ```
+~~~bash
+git commit -m "Adicionei meu primeiro arquivo"
+~~~
+
 👉 **6.5** Envie as alterações para o repositório remoto.
 
 ```bash
